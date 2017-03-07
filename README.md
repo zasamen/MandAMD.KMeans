@@ -1,2 +1,2 @@
 # MandAMD.KMeans
-Realisation of k-means algorithm
+Implementationof k-means algorithm
