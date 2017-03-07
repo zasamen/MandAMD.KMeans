@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="KMA:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KMA_jar</output-path>
+    <root id="root">
+      <element id="archive" name="KMA.jar">
+        <element id="module-output" name="KMA" />
+        <element id="module-output" name="KMeansUI" />
+        <element id="module-output" name="KMeansLib" />
+      </element>
+      <element id="file-copy" path="$APPLICATION_HOME_DIR$/redist/annotations-java8.jar" />
+    </root>
+  </artifact>
+</component>

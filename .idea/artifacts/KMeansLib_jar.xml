@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KMeansLib:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KMeansLib_jar</output-path>
+    <root id="archive" name="KMeansLib.jar">
+      <element id="module-output" name="KMeansLib" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/KMeansLib/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
